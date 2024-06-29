@@ -4,7 +4,7 @@
   "description": "Generate Stylish dark theme using PostCSS.",
   "main": "index.js",
   "dependencies": {
-    "postcss": "^5.2.11",
+    "postcss": "^8.4.38",
     "color": "^1.0.3"
   },
   "devDependencies": {
